@@ -135,10 +135,12 @@
 <br>
 <h3 align="left">GitHub Contributions:</h3>
 
-![GitHub Snake Light](./dist/github-contribution-grid-snake#gh-light-mode-only)
-![GitHub Snake dark](./dist/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Light](./dist/github-snake.svg)
+![GitHub Snake Dark](./dist/github-snake-dark.svg)
 
+![GitHub Ocean](./dist/ocean.gif)
 <br>
+
 
 <hr>
 <p align="left">
