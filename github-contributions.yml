@@ -1,3 +1,20 @@
-              - name: generate-snake-game-from-github-contribution-grid
-                uses: Platane/snk@v3.1.0
-            
+name: Generate GitHub Contributions Snake Game
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Generate GitHub Contributions Snake Game
+        run: |
+          npx snk --user=<YOUR_GITHUB_USERNAME> --bg=transparent --export-png=./dist/github-contribution-grid-snake-light.png --width=1280 --height=720 --date-format=MMP --grid-size=24
+          npx snk --user=<YOUR_GITHUB_USERNAME> --bg=transparent --export-png=./dist/github-contribution-grid-snake-dark.png --width=1280 --height=720 --date-format=MMP --grid-size=24 --theme=dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
