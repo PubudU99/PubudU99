@@ -135,8 +135,8 @@
 <br>
 <h3 align="left">GitHub Contributions:</h3>
 
-![GitHub Snake Light](./dist/github-snake.svg)
-![GitHub Snake Dark](./dist/github-snake-dark.svg)
+![GitHub Snake Light](./dist/github-contribution-grid-snake)
+![GitHub Snake Dark](./dist/github-contribution-grid-snake-dark)
 
 ![GitHub Ocean](./dist/ocean.gif)
 <br>
