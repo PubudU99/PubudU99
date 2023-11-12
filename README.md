@@ -15,8 +15,8 @@
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
             alt="nuwan.jaliyagoda" height="30" width="40" /></a>
     <a style="padding: 4px;" href="https://www.thecn.com/PW490" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/CourseNetworking.svg"
-            alt="uc1ear2mo0ktp4rjke__wgqa" height="30" width="40" /></a>
+            src="https://github.com/PubudU99/PubudU99/assets/115542224/1821903b-c6d4-44d8-8bb0-76f85dc2c79d"
+            alt="uc1ear2mo0ktp4rjke__wgqa" height="40" width="40" /></a>
     
 </p>
 
