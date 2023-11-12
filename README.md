@@ -14,8 +14,8 @@
     <a style="padding: 4px;" href="https://fb.com/Pubudu.Madusith" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
             alt="nuwan.jaliyagoda" height="30" width="40" /></a>
-    <a style="padding: 4px;" href="https://www.youtube.com/channel/UC1EaR2mO0KTP4RjKe__wgqA" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
+    <a style="padding: 4px;" href="https://www.thecn.com/PW490" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/CN.svg"
             alt="uc1ear2mo0ktp4rjke__wgqa" height="30" width="40" /></a>
     
 </p>
