@@ -130,7 +130,7 @@
     <img align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=nuwanj&show_icons=true&locale=en&layout=compact"
         alt="nuwanj" />
-</p> -->
+</p> 
 
 <br>
 <h3 align="left">GitHub Contributions:</h3>
@@ -140,6 +140,7 @@
 
 ![GitHub Ocean](./dist/ocean.gif)
 <br>
+-->
 
 
 <hr>
