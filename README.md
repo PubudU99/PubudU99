@@ -102,15 +102,15 @@
     <!-- Git -->
     <a style="padding: 4px;" href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
-    <!-- Postman -->
-<!--     <a style="padding: 4px;" href="https://postman.com" target="_blank" rel="noreferrer">
+    Postman -->
+    <a style="padding: 4px;" href="https://postman.com" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"
-            height="40" /> -->
+            height="40" />
     </a>
     <!-- Photoshop -->
-    <a style="padding: 4px;" href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
+<!--     <a style="padding: 4px;" href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
-            alt="photoshop" width="40" height="40" /> </a>
+            alt="photoshop" width="40" height="40" /> </a> -->
     <!-- Illustrator -->
 <!--     <a style="padding: 4px;" href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator"
