@@ -72,9 +72,9 @@
 </p>
 <p align="left">
     <!-- Laravel -->
-    <a style="padding: 4px;" href="https://laravel.com/" target="_blank" rel="noreferrer">
+    <!--<a style="padding: 4px;" href="https://laravel.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
-            alt="laravel" width="40" height="40" /> </a>
+            alt="laravel" width="40" height="40" /> </a>-->
     <!-- NodeJS -->
     <a style="padding: 4px;" href="https://nodejs.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
