@@ -96,9 +96,9 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
             width="40" height="40" /> </a>
     <!-- Bash -->
-    <!-- <a style="padding: 4px;" href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <a style="padding: 4px;" href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" />
-    </a> -->
+    </a>
     <!-- Git -->
     <a style="padding: 4px;" href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
@@ -107,35 +107,28 @@
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"
             height="40" />
     </a>
-    <!-- Photoshop -->
-<!--     <a style="padding: 4px;" href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
-            alt="photoshop" width="40" height="40" /> </a> -->
-    <!-- Illustrator -->
-<!--     <a style="padding: 4px;" href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator"
-            width="40" height="40" /> </a> -->
     <!-- Arduino -->
     <a style="padding: 4px;" href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
         <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" /> </a>
 
 </p>
 
-<!-- <p>
+<p>
     <img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=nuwanj&show_icons=true&locale=en&layout=compact"
-        alt="nuwanj" />
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=PubudU99&show_icons=true&locale=en&layout=compact"
+        alt="PubudU99" />
 </p> 
 
 <br>
 <h3 align="left">GitHub Contributions:</h3>
 
-![GitHub Snake Light](./dist/github-contribution-grid-snake)
-![GitHub Snake Dark](./dist/github-contribution-grid-snake-dark)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dist/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./dist/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
-![GitHub Ocean](./dist/ocean.gif)
 <br>
--->
 
 
 <hr>
