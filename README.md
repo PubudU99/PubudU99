@@ -83,14 +83,6 @@
 <!--     <a style="padding: 4px;" href="https://jekyllrb.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40" />
     </a> -->
-    <!-- Cordova -->
-<!--     <a style="padding: 4px;" href="https://cordova.apache.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova"
-            width="40" height="40" /> </a> -->
-    <!-- Flutter -->
-<!--     <a style="padding: 4px;" href="https://flutter.dev" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40"
-            height="40" /></a> -->
     <!-- Linux -->
     <a style="padding: 4px;" href="https://www.linux.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
@@ -110,6 +102,14 @@
     <!-- Arduino -->
     <a style="padding: 4px;" href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
         <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" /> </a>
+    <!-- Ballerina -->
+          <a style="padding: 4px;" href="https://ballerina.io/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/ballerinaio/ballerinaio-icon.svg" alt="ballerina" width="40"
+            height="40" /></a>
+    <!-- Cordova -->
+    <a style="padding: 4px;" href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="apachekafka"
+            width="40" height="40" /> </a>
 
 </p>
 <!--     <a style="padding: 4px;" href="https://flutter.dev" target="_blank" rel="noreferrer">
